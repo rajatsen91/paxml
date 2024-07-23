@@ -4,9 +4,9 @@
 absl-py
 clu @ git+https://github.com/google/CommonLoopUtils
 etils
-flax @ git+https://github.com/google/flax
+flax
 graphviz
-jax @ git+https://github.com/google/jax
+jax
 # lingvo
 numpy
 orbax-checkpoint @ git+https://github.com/google/orbax/#subdirectory=checkpoint
@@ -19,5 +19,5 @@ tensorflow~=2.9.2
 tensorflow-text~=2.9.0
 tensorstore
 tensorflow-datasets==4.8.3
-tfds-nightly==4.8.3.dev202303280045
+tfds-nightly
 tensorflow-metadata==1.12.0
